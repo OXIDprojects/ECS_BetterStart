@@ -20,8 +20,7 @@ $sMetadataVersion = '1.1';
 $aModule = array(
     'id'            => 'ecs-betterstart',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>BetterStart</i>',
-    'description'   => 'Starthilfe f&uuml;r den OXID eShop!
-                        <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+    'description'   => 'Starthilfe f&uuml;r den OXID eShop!',
     'thumbnail'     => 'ecomstyle.png',
     'version'       => '1.4',
     'author'        => '<strong style="font-size: 17px;color:#04B431;">e</strong><strong style="font-size: 16px;">ComStyle.de</strong>',
