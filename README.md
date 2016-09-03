@@ -3,6 +3,12 @@ eComStyle.de BetterStart
 
 Kostenlose Starthilfe für den OXID eShop!
 
+Neuste Version kostenlos herunterladen:
+
+    Sie finden unter folgendem Link stets die aktuellste Modulversion:
+
+    https://github.com/eComStyle-de/ECS_BetterStart/releases/latest
+
 Features:
 
 	- Welcome-Textbox auf der Startseite aktivierbar. Inhalt ist die CMS-Seite "start.tpl Begrüßungstext".
@@ -22,6 +28,8 @@ Installation:
 	3. Aktiviere das neue Modul unter Erweiterungen/Module.
 
 	4. Wähle in den Moduleinstellungen die gewünschten Optionen.
+
+    5. Sollte die CMS-Seite "start.tpl Begrüßungstext" (Ident: oxstartwelcome) nicht vorhanden sein, lege diese neu an mit dem Ident: "oxstartwelcome".
 	
 Shopversion:
 
